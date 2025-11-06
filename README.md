@@ -241,8 +241,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Muhammad Furqan - [GitHub Profile](https://github.com/yourusername)
-
+Muhammad Furqan 
 ---
 
-**Note**: This is a frontend application. For production use, integrate with a backend API for data persistence and enhanced security.
